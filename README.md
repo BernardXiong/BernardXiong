@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there
 
 I'm Bernard Xiong, the founder of RT-Thread. I created the RT-Thread embedded operating system in 2006, and have been promoting its evolution for more than ten years (From RT-Thread Kernel to shell, file system, PersimUI, RT-Thread Smart etc). And always integrate my thoughts on the application scenarios: what kind of operating system does the world need.
 
 Looking forward to communicating with you. 👋
+
+❉ 路虽远行则将至，事虽难做则必成❗
 
 <!--
 **BernardXiong/BernardXiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
