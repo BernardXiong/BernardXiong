@@ -4,7 +4,8 @@ I'm Bernard Xiong, the founder of RT-Thread. I created the RT-Thread embedded op
 
 Looking forward to communicating with you. 👋
 
-大家好：
+大家好！
+
 我是熊谱翔，RT-Thread的创始人。我在2006年创建了RT-Thread嵌入式操作系统，并超过10年不断地推进它的演化，从RT-Thread内核，到命令行shell，文件系统，PersimUI，以及RT-Thread Smart系统等等。在这个过程中，并不断的把自己的想法融入到它的应用领域：这个世界应该需要一个什么样的操作系统。
 
 ❉ 路虽远行则将至，事虽难做则必成❗
